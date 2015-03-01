@@ -1,0 +1,9 @@
+c:\users\1\documents\visual studio 2012\Projects\IPtoDNS\IPtoDNS\bin\Debug\IPtoDNS.exe.config
+c:\users\1\documents\visual studio 2012\Projects\IPtoDNS\IPtoDNS\bin\Debug\IPtoDNS.exe
+c:\users\1\documents\visual studio 2012\Projects\IPtoDNS\IPtoDNS\bin\Debug\IPtoDNS.pdb
+c:\users\1\documents\visual studio 2012\Projects\IPtoDNS\IPtoDNS\obj\Debug\IPtoDNS.csprojResolveAssemblyReference.cache
+c:\users\1\documents\visual studio 2012\Projects\IPtoDNS\IPtoDNS\obj\Debug\IPtoDNS.Form1.resources
+c:\users\1\documents\visual studio 2012\Projects\IPtoDNS\IPtoDNS\obj\Debug\IPtoDNS.Properties.Resources.resources
+c:\users\1\documents\visual studio 2012\Projects\IPtoDNS\IPtoDNS\obj\Debug\IPtoDNS.csproj.GenerateResource.Cache
+c:\users\1\documents\visual studio 2012\Projects\IPtoDNS\IPtoDNS\obj\Debug\IPtoDNS.exe
+c:\users\1\documents\visual studio 2012\Projects\IPtoDNS\IPtoDNS\obj\Debug\IPtoDNS.pdb
