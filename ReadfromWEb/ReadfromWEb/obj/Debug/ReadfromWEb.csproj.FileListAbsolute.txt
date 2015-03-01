@@ -1,0 +1,9 @@
+c:\users\1\documents\visual studio 2012\Projects\ReadfromWEb\ReadfromWEb\bin\Debug\ReadfromWEb.exe.config
+c:\users\1\documents\visual studio 2012\Projects\ReadfromWEb\ReadfromWEb\bin\Debug\ReadfromWEb.exe
+c:\users\1\documents\visual studio 2012\Projects\ReadfromWEb\ReadfromWEb\bin\Debug\ReadfromWEb.pdb
+c:\users\1\documents\visual studio 2012\Projects\ReadfromWEb\ReadfromWEb\obj\Debug\ReadfromWEb.csprojResolveAssemblyReference.cache
+c:\users\1\documents\visual studio 2012\Projects\ReadfromWEb\ReadfromWEb\obj\Debug\ReadfromWEb.Form1.resources
+c:\users\1\documents\visual studio 2012\Projects\ReadfromWEb\ReadfromWEb\obj\Debug\ReadfromWEb.Properties.Resources.resources
+c:\users\1\documents\visual studio 2012\Projects\ReadfromWEb\ReadfromWEb\obj\Debug\ReadfromWEb.csproj.GenerateResource.Cache
+c:\users\1\documents\visual studio 2012\Projects\ReadfromWEb\ReadfromWEb\obj\Debug\ReadfromWEb.exe
+c:\users\1\documents\visual studio 2012\Projects\ReadfromWEb\ReadfromWEb\obj\Debug\ReadfromWEb.pdb
