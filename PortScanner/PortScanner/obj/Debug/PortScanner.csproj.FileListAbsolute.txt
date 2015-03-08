@@ -1,0 +1,6 @@
+c:\users\1\documents\visual studio 2012\Projects\PortScanner\PortScanner\bin\Debug\PortScanner.exe.config
+c:\users\1\documents\visual studio 2012\Projects\PortScanner\PortScanner\bin\Debug\PortScanner.exe
+c:\users\1\documents\visual studio 2012\Projects\PortScanner\PortScanner\bin\Debug\PortScanner.pdb
+c:\users\1\documents\visual studio 2012\Projects\PortScanner\PortScanner\obj\Debug\PortScanner.csprojResolveAssemblyReference.cache
+c:\users\1\documents\visual studio 2012\Projects\PortScanner\PortScanner\obj\Debug\PortScanner.exe
+c:\users\1\documents\visual studio 2012\Projects\PortScanner\PortScanner\obj\Debug\PortScanner.pdb
