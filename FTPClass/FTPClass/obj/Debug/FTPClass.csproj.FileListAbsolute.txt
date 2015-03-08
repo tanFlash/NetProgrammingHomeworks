@@ -1,0 +1,9 @@
+c:\users\1\documents\visual studio 2012\Projects\FTPClass\FTPClass\bin\Debug\FTPClass.exe.config
+c:\users\1\documents\visual studio 2012\Projects\FTPClass\FTPClass\bin\Debug\FTPClass.exe
+c:\users\1\documents\visual studio 2012\Projects\FTPClass\FTPClass\bin\Debug\FTPClass.pdb
+c:\users\1\documents\visual studio 2012\Projects\FTPClass\FTPClass\obj\Debug\FTPClass.csprojResolveAssemblyReference.cache
+c:\users\1\documents\visual studio 2012\Projects\FTPClass\FTPClass\obj\Debug\FTPClass.Form1.resources
+c:\users\1\documents\visual studio 2012\Projects\FTPClass\FTPClass\obj\Debug\FTPClass.Properties.Resources.resources
+c:\users\1\documents\visual studio 2012\Projects\FTPClass\FTPClass\obj\Debug\FTPClass.csproj.GenerateResource.Cache
+c:\users\1\documents\visual studio 2012\Projects\FTPClass\FTPClass\obj\Debug\FTPClass.exe
+c:\users\1\documents\visual studio 2012\Projects\FTPClass\FTPClass\obj\Debug\FTPClass.pdb
